@@ -1,0 +1,4 @@
+interface:
+  display_name: "detailread 论文精读"
+  short_description: "逐部分拆解论文的论点、证据、推论与章节衔接"
+  default_prompt: "请使用 $detailread 按原文顺序详细讲解这篇论文，说明每部分如何论证、证据能支持什么，以及各环节如何衔接。"
